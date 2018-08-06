@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>iOSTesting</name>
+   <tag></tag>
+   <UUID>61d2c381-f21a-44a2-8ec0-7910280c1d8d</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
