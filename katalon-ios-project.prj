@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>katalon-ios-project</name>
+   <tag></tag>
+   <UUID>bb0a6c78-446e-4e62-a39c-a08a87b7f3e9</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
